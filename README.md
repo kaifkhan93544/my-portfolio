@@ -25,13 +25,13 @@ interested in programming and software development.
 - JavaScript
 - Git
 
+
 ## Project Structure
-my-portfolio
+my-portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-└── images
+└── README.md
 
 ## Author
 Kaif Ahmad Khan
